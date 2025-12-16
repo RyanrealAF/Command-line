@@ -1,0 +1,5 @@
+{
+  "name": "CLI Mastery Curriculum",
+  "description": "An interactive, dark-themed learning platform for mastering the Command Line (Bash & PowerShell), featuring progress tracking, quizzes, and an AI tutor.",
+  "requestFramePermissions": []
+}
